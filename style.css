@@ -75,8 +75,6 @@ section {
     text-align: center;
 }
 
-
-
 .other-amount {
     text-align: center;
     color: rgba(0, 0, 0, 0.774);
@@ -131,9 +129,11 @@ hr {
     padding-top: 5%;
 }
 
+
 .half-width img {
     width: 100%;
 }
+
 
 
 .subscribe {
@@ -185,4 +185,25 @@ footer p {
     color: white;
     font-family: "Ubuntu", sans-serif;
     font-size: 20px;
+}
+
+
+
+.gallery {
+    margin: 7px;
+    border: 2px solid rgb(243, 172, 172);
+    /* float: left; */
+    width: 350px;
+    /* width: 24%; */
+
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
 }
